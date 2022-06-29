@@ -9,7 +9,7 @@ Install the packages and its dependencies needed to run the program.
 
 ## How to Start
 
-> Start both the client and server by running the following command in respective directories.
+Start both the client and server by running the following command in respective directories.
 
 ### `npm start`
 
